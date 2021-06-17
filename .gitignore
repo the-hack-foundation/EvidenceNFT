@@ -1,0 +1,6 @@
+#Node_modules folder
+node_modules
+
+#Hardhat files
+cache
+artifacts
